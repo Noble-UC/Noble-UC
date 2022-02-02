@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Noble-UC
-- 👀 I’m interested in data Analytics
-- 🌱 I’m currently learning SQL, R, Tableau and Python
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning SQL, R, Tableau, PowerBI and Python
 - 💞️ I’m looking to collaborate on data analysis projects
 - 📫 How to reach me via email: uchenna.isuokogeri@gmail.com
 
